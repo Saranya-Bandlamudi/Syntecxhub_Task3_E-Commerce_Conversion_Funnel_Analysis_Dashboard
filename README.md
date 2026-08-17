@@ -82,6 +82,7 @@ The analysis helps businesses:
 
 ## 📸 Dashboard Preview
 
+<img width="1737" height="794" alt="image" src="https://github.com/user-attachments/assets/ae824255-ac8e-4ae8-b79d-5b1cada0280d" />
 
 
 ---
@@ -97,8 +98,6 @@ The analysis helps businesses:
 ## 👩‍💻 Author
 
 **Saranya Bandlamudi**
-
-Aspiring Data Analyst
 
 B.Tech Computer Science Engineering  
 Aspiring Data Analyst
